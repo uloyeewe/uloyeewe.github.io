@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uloyeewe.github.io/Nlb/sitemap_index.txt
+Sitemap: https://uloyeewe.github.io/OCL/sitemap_index.txt
+Sitemap: https://uloyeewe.github.io/YRd/sitemap_index.txt
+Sitemap: https://uloyeewe.github.io/ust/sitemap_index.txt
